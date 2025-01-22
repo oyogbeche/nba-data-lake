@@ -34,7 +34,7 @@ The architecture comprises the following AWS components:
 
 - AWS IAM: Manages permissions for resources and services.
 
-[Architecture](./media/nba_data_lake_architecture.jpeg)
+![Architecture](./media/nba_data_lake_architecture.jpeg)
 
 ## Project Structure
 ```markdown
