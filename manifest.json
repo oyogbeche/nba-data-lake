@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+      {
+        "URIs": [
+          "s3://oyogbeche-nba-data-lake/results/5b36c280-229f-46a8-b14d-54850ce93629.csv"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier":"\"",
+      "containsHeader": true
+    }
+  }
+  
